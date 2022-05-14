@@ -1,6 +1,6 @@
 Hola, soy Rosa 👋
 
-Junior developer / Front-end developer - Junior 💻
+•Web developer | JavaScript | Vue.js | PHP 💻
 
 Estudiante en la escuela de desarrollo de Platzi 🤓 
 Actualmente aprendiendo Vue.js🌱
